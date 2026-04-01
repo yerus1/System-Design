@@ -27,7 +27,5 @@ class Main{
         Thread thread2=new Thread(task,"Thread2");
 
         thread1.start();
-        thread2.start();
-        System.out.println(thread1==thread2);
-    }
+        thread2.start();}
 }
