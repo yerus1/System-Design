@@ -4,7 +4,7 @@ The **Singleton pattern** ensures that a class has **only one instance** and pro
 
 ---
 
-## 📌 Key Characteristics of Singleton Pattern
+## Key Characteristics of Singleton Pattern
 
 - ✔ **Single Instance:** Only one object of the class exists in memory.
 - ✔ **Global Access:** Provides a static method to get the instance.
@@ -13,7 +13,7 @@ The **Singleton pattern** ensures that a class has **only one instance** and pro
 
 ---
 
-## 📌 Real-World Examples of Singleton Design Pattern
+## Real-World Examples of Singleton Design Pattern
 
 - ✔ Database Connection Pool – Manages database connections through a single shared instance.
 - ✔ Logger – Centralized logging through a single logger instance.
@@ -24,7 +24,7 @@ The **Singleton pattern** ensures that a class has **only one instance** and pro
 - ✔ Spring Boot Beans – Default scope for Spring beans is singleton, ensuring one shared
 
 
-## 🧠 Best Singleton Approach Based on Use Case
+## Best Singleton Approach Based on Use Case
 
 | **Use Case**                                  | **Recommended Approach**               | **Reason**                                      |
 |-----------------------------------------------|----------------------------------------|-------------------------------------------------|
@@ -37,7 +37,7 @@ The **Singleton pattern** ensures that a class has **only one instance** and pro
 
 ---
 
-## 🧪 Singleton Pattern Comparison Table
+##  Singleton Pattern Comparison Table
 
 | Feature                      | `enum` Singleton | Double-Checked Locking | Bill Pugh Singleton     | Simple `synchronized` |
 |-----------------------------|------------------|-------------------------|--------------------------|------------------------|
@@ -53,4 +53,5 @@ The **Singleton pattern** ensures that a class has **only one instance** and pro
 
 ---
 
+## For Reference:
 [![Watch Video](https://img.youtube.com/vi/JWkZM3crLi4/0.jpg)](https://www.youtube.com/watch?v=JWkZM3crLi4)
