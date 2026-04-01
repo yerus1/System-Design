@@ -52,6 +52,3 @@ The **Singleton pattern** ensures that a class has **only one instance** and pro
 | Constructor Arguments       | ❌ Not possible  | ✅ Yes                 | ✅ Yes                   | ✅ Yes                |
 
 ---
-
-## For Reference:
-[![Watch Video](https://img.youtube.com/vi/JWkZM3crLi4/0.jpg)](https://www.youtube.com/watch?v=JWkZM3crLi4)
